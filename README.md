@@ -1,1 +1,1 @@
-# An-lise-de-S-ries-Temporais
+# Análise de séries de temporias
